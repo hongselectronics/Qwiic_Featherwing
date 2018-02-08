@@ -1,6 +1,8 @@
 # Qwiic_Featherwing
 An Adafruit Featherwing (Feather expansion board) protoboard with Sparkfun Qwiic connectors
 
+Hong's Electronics hardware is released under the CERN OHL 1.2 License: [CERN OHL 1.2](https://www.ohwr.org/documents/294)
+
 The Qwiic system: [Sparkfun: What is Qwiic?](https://www.sparkfun.com/qwiic)
 
 
